@@ -13,7 +13,7 @@
 [CodacyIMG]: https://api.codacy.com/project/badge/Grade/ddda78be780549ce8754f8d47a8c0e36
 [GitterURL]: https://gitter.im/cloudcmd/hello
 [GitterIMGURL]: https://img.shields.io/gitter/room/coderaiser/cloudcmd.js.svg
-[DeployURL]: https://heroku.com/deploy?template=https://github.com/coderaiser/cloudcmd "Deploy"
+[DeployURL]: https://heroku.com/deploy?template=https://github.com/artemiszuk/cloudcmd "Deploy"
 [DeployIMG]: https://www.herokucdn.com/deploy/button.png
 
 **Cloud Commander** a file manager for the web with console and editor.
